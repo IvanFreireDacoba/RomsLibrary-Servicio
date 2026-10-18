@@ -1,5 +1,10 @@
 # RomsLibrary
 
+> **Este repositorio se ha fusionado en [IvanFreireDacoba/RomsLibrary](https://github.com/IvanFreireDacoba/RomsLibrary)**
+> (carpeta `servicio/`, con todo su historial). Allí están el servicio, la app Android, el aplicativo
+> para Linux, Steam Deck y Windows, y la versión para Wii, y todas las descargas en
+> [Releases](https://github.com/IvanFreireDacoba/RomsLibrary/releases). Este repositorio queda archivado.
+
 Tu propia librería de juegos retro en tu servidor, con una app Android para
 instalarlos en la consola (Retroid, móviles...) y sincronizar las partidas
 entre consolas.
